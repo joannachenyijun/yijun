@@ -1,1 +1,2 @@
-# yijun
+# yijunc@clemson.edu  
+Yijun Chen

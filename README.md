@@ -1,2 +1,2 @@
-# yijunc@clemson.edu  
+# yijunc@g.clemson.edu  
 Yijun Chen
